@@ -1,0 +1,42 @@
+* {
+  padding: 0; 
+  margin: 0;
+  box-sizing: border-box;
+
+  }
+
+/*.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow-x: hidden;
+  padding: 20px 0px 0px 40px;
+  font-size: 20px;
+  line-height: 5rem;
+
+
+}
+*/
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow-x: hidden;
+  padding: 20px 0px 0px 0px;
+  font-size: 20px;
+  line-height: 5rem;
+  font-size: 30px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  
+}

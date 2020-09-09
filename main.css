@@ -1,0 +1,29 @@
+body {
+	color: blue;
+}
+
+
+div {
+	border: 1px solid green;
+	margin: 5px;
+}
+
+h1 {
+	visibility: hidden;
+
+}
+
+#firstparagraph {
+	visibility: hidden;
+}
+
+#second {
+	visibility: hidden;
+}
+
+img	{
+	visibility: visible;
+	width: 50%;
+	height: 50%;
+}
+

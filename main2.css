@@ -1,0 +1,42 @@
+
+body {
+	background-color: beige;
+	
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+</style>
+
+
+#firstparagraph {
+	font-size: 40px;
+}
+
+img	{
+	height: 50%;
+	width: 50%;
+}
+
+
+
+/*beginning of article css*/
+#firstheadline {
+	color: red;
+
+}
+
+li {
+	list-style: none;
+	line-height: 2rem;
+}
+
+#secondheadline {
+	font-family: 'Long Cang', cursive;
+	color: green;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+
+
